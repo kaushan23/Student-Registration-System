@@ -1,6 +1,6 @@
 **Student and Subject Registration System**
-        This project is a Student and Subject Registration System developed using C#, ASP.NET Core, and SQL Server. It provides an efficient way for educational institutes to manage student registrations and subject enrollments seamlessly.
-
+       This project is a Student and Subject Registration System developed using C#, ASP.NET Core, and SQL Server. It provides an efficient way for educational institutes to manage student registrations and subject enrollments seamlessly.
+        
 **Features**
       **Student Registration Form** – Allows admins to register new students with details like First Name, Last Name, Email, and Date of Birth.
       **Subject Registration Form** – Enables admins to add new subjects with Subject Name and Description.
