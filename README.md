@@ -8,13 +8,14 @@
       **MVC Architecture** – Built on the Model-View-Controller (MVC) pattern for a clean separation of concerns.
       **Entity Framework Core** – Implements database operations using EF Core for seamless data management.
       **User-friendly Interface** – Responsive design with Razor Views (HTML, CSS, Bootstrap).
-
+      
 **Technologies Used**
       Backend: C#, ASP.NET Core
       Frontend: Razor Views (HTML, CSS, Bootstrap)
       Database: SQL Server
       ORM: Entity Framework Core
-      Tools: Visual Studio, SQL Server Management Studio (SSMS)
+      Tools: Visual Studio, SQL Server Management Studio (SSMS).
+      
 **How to Run**
       1. Clone the Repository:
               git clone https://github.com/kaushan23/Student-Registration-System.git
