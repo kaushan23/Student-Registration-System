@@ -5,21 +5,21 @@
         
 **Features**
 
-      Student Registration Form – Allows admins to register new students with details like 
+      • Student Registration Form – Allows admins to register new students with details like 
                                       First Name, Last Name, Email, and Date of Birth.
-      Subject Registration Form – Enables admins to add new subjects with Subject Name and Description.
-      Database Integration – Uses SQL Server to store student and subject data efficiently.
-      MVC Architecture – Built on the Model-View-Controller (MVC) pattern for a clean separation of concerns.
-      Entity Framework Core – Implements database operations using EF Core for seamless data management.
-      User-friendly Interface – Responsive design with Razor Views (HTML, CSS, Bootstrap).
+      • Subject Registration Form – Enables admins to add new subjects with Subject Name and Description.
+      • Database Integration – Uses SQL Server to store student and subject data efficiently.
+      • MVC Architecture – Built on the Model-View-Controller (MVC) pattern for a clean separation of concerns.
+      • Entity Framework Core – Implements database operations using EF Core for seamless data management.
+      • User-friendly Interface – Responsive design with Razor Views (HTML, CSS, Bootstrap).
       
 **Technologies Used**
 
-      Backend: C#, ASP.NET Core
-      Frontend: Razor Views (HTML, CSS, Bootstrap)
-      Database: SQL Server
-      ORM: Entity Framework Core
-      Tools: Visual Studio, SQL Server Management Studio (SSMS).
+      • Backend: C#, ASP.NET Core
+      • Frontend: Razor Views (HTML, CSS, Bootstrap)
+      • Database: SQL Server
+      • ORM: Entity Framework Core
+      • Tools: Visual Studio, SQL Server Management Studio (SSMS).
       
 **How to Run**
       1. Clone the Repository:
